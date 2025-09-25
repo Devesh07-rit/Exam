@@ -1,4 +1,8 @@
-def triangle_validator(side_a: float, side_b: float, side_c: float) -> bool:
+# Devesh Mittal
+# 745008767
+
+
+def triangle_validator(side_a, side_b, side_c) -> bool:
     """
     Check if three given sides can form a valid triangle.
     
